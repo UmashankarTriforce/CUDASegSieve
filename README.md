@@ -1,1 +1,1 @@
-# CUDASegSieve
+# CUDA Segmentation Sieve
